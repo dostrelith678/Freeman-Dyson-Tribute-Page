@@ -1,1 +1,1 @@
-Simple tribute page to Freeman Dyson using HTML5 and CSS.
+A simple tribute page to Freeman Dyson using HTML5 and CSS.
